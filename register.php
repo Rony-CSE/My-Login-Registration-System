@@ -1,9 +1,9 @@
-<?php include "server.php" ;?>
+<?php include "server.php";?>
 
 <?php
 // if user is logged in then redirect to home page
-if(isset($_SESSION["login"])){
-  header("Location: index.php");
+if (isset($_SESSION['login'])){
+    header("Location: index.php");
 }
 ?>
 
