@@ -3,8 +3,8 @@ session_name('login');
 session_start();
 
 $dbhost = "localhost";
-$dbuser = "rony";
-$dbpass = "mary";
+$dbuser = "root";
+$dbpass = "";
 $dbname = "db_lr_sys";
 
 // connect to the database
