@@ -12,6 +12,7 @@
 ### If you are not a registered user, you can get registered from register page
   ##### If you leave any field blank, it will show ERROR
   ##### You have to fill up all the fields for registration
+  ##### If the Password and Confirm Password don’t match, it will show ERROR
   
 ## That's all
   
